@@ -1,0 +1,1 @@
+provided the audio detector Matlab file , also 2 audio samples one of them is recorded by human and the other is made by machine if the output (last block on the right)showed 0 that means the voice is human , and if the block showd 1 that means the voice is made by machine.
